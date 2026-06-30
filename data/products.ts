@@ -40,7 +40,7 @@ export type Product = {
 
 export const products: Product[] = [
   {
-    slug: "rust-guide-product-1",
+    slug: "blackstar-rust",
     // Set to false to hide this product from the public website without deleting it.
     isVisible: true,
     // Edit this product name when you upload your real guide.

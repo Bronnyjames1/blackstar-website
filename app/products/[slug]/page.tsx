@@ -82,9 +82,9 @@ export default function ProductDetailPage({ params }: PageProps) {
           <div className="glass-card mt-6 grid gap-3 rounded-lg p-5 sm:grid-cols-2">
             <div>
               <p className="text-xs font-bold uppercase tracking-[0.18em] text-muted">
-                File type
+                Status
               </p>
-              <p className="mt-1 font-bold text-silver">{product.fileType}</p>
+              <p className="mt-1 font-bold text-green-400">Running</p>
             </div>
             <div>
               <p className="text-xs font-bold uppercase tracking-[0.18em] text-muted">

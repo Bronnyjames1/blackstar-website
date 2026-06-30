@@ -18,7 +18,7 @@ export default function ProductsPage() {
           View All Products
         </h1>
         <p className="mt-5 text-base font-medium leading-7 text-muted">
-          Browse all of our ebooks ebooks for improved gameplay. Instant Checkout and Delivery.
+          Browse all of our game ebooks for improved gameplay. Instant Checkout and Delivery.
         </p>
       </div>
       <ProductGrid products={visibleProducts} />
