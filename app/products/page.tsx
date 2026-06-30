@@ -15,10 +15,10 @@ export default function ProductsPage() {
           Store
         </p>
         <h1 className="mt-3 font-display text-4xl font-black text-silver md:text-6xl">
-          Downloadable game guides
+          View All Products
         </h1>
         <p className="mt-5 text-base font-medium leading-7 text-muted">
-          Browse legitimate digital guide ebooks for improved gameplay. Instant Checkouts and Premier Services
+          Browse all of our ebooks ebooks for improved gameplay. Instant Checkout and Delivery.
         </p>
       </div>
       <ProductGrid products={visibleProducts} />

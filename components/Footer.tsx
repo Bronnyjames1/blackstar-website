@@ -18,7 +18,7 @@ export function Footer() {
             Store
           </p>
           <div className="mt-4 flex flex-col gap-3 text-sm font-semibold text-muted">
-            <Link href="/products">All Guides</Link>
+            <Link href="/products">All Products</Link>
             <Link href="/faq">FAQ</Link>
             <Link href="/contact">Discord / Support</Link>
           </div>
@@ -36,7 +36,7 @@ export function Footer() {
       <div className="border-t border-electric/15 py-5">
         <div className="section-shell flex flex-col gap-2 text-xs text-muted sm:flex-row sm:items-center sm:justify-between">
           <p>© 2026 Blackstar. All rights reserved.</p>
-          <p>No cheats, hacks, exploits, accounts, or prohibited software.</p>
+          <p>Become The Best.</p>
         </div>
       </div>
     </footer>

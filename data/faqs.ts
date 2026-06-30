@@ -7,16 +7,16 @@ export const faqs = [
   {
     question: "Are these digital products?",
     answer:
-      "Yes. Blackstar sells downloadable digital game guide ebooks, usually in PDF format. No physical item is shipped."
+      "Yes. Blackstar sells downloadable digital game ebooks, along with a license key. No physical item is shipped."
   },
   {
     question: "Do you offer refunds?",
     answer:
-      "Refunds for digital downloads are limited once a file has been accessed or downloaded. If there is a delivery issue, contact support with your order details."
+      "Refunds for digital downloads are limited. If there is a delivery issue, contact support with your order details. Refunds, if permitted, will be compensated in the format of website credit."
   },
   {
-    question: "How often are guides updated?",
+    question: "How often are Products updated?",
     answer:
-      "Update timing depends on the game and guide. Each product page includes a last updated date so customers can see how current the guide is."
+      "They are kept up to date per game update and when needed. All the updates are posted in the discord channel."
   },
 ];
